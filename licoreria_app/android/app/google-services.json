@@ -1,0 +1,31 @@
+{
+    "project_info": {
+        "project_number": "299993250488",
+        "project_id": "licoreria-lux",
+        "storage_bucket": "licoreria-lux.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:299993250488:android:d1c5d0410479c8f5d4124d",
+            "android_client_info": {
+                "package_name": "com.example.licoreria_app"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "299993250488-6vipd05c2uoqisnd016d5slugdp5ha92.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyDbyyEuJsQgbcJZS9WIwp7RMjfw5kJNqWs"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "299993250488-6vipd05c2uoqisnd016d5slugdp5ha92.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
